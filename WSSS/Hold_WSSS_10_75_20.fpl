@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">10 leg hold pattern
+  <waypoint-table>
+    <waypoint>
+      <identifier>fix0</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.1613694</lat>
+      <lon>104.3803815</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix1</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.1613694</lat>
+      <lon>103.6076245</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix2</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.6154584</lat>
+      <lon>102.9824509</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix3</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.3501900</lat>
+      <lon>102.7436558</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix4</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.0849216</lat>
+      <lon>102.9824509</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix5</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.5390106</lat>
+      <lon>103.6076245</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix6</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.5390106</lat>
+      <lon>104.3803815</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix7</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.0849216</lat>
+      <lon>105.0055551</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix8</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.3501900</lat>
+      <lon>105.2443502</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix9</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.6154584</lat>
+      <lon>105.0055551</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix1</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix2</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix3</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix4</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix5</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix6</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix7</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix8</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix9</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix0</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

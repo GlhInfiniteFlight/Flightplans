@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>MA508</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.6005667</lat>
+      <lon>-16.8033472</lon>
+      <elevation>610</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MA504</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.6591833</lat>
+      <lon>-16.8033472</lon>
+      <elevation>271</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MA502</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.6827806</lat>
+      <lon>-16.7919583</lon>
+      <elevation>119</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LPMA</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.6978798</lat>
+      <lon>-16.7743616</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>MA508</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MA504</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MA502</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LPMA</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

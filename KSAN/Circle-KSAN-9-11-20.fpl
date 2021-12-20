@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">Circle
+  <waypoint-table>
+    <waypoint>
+      <identifier>33429/-117194</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.4285230</lat>
+      <lon>-117.1942690</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33441/-117318</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.4412310</lat>
+      <lon>-117.3177484</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33421/-117440</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.4213709</lat>
+      <lon>-117.4398762</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33371/-117549</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.3708850</lat>
+      <lon>-117.5487094</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33295/-117634</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.2947101</lat>
+      <lon>-117.6336052</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33200/-117686</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.2002955</lat>
+      <lon>-117.6862616</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>33097/-117702</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>33.0968741</lat>
+      <lon>-117.7015293</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>32995/-117678</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.9945594</lat>
+      <lon>-117.6779153</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>32903/-117618</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.9033568</lat>
+      <lon>-117.6177288</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>32832/-117527</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.8321851</lat>
+      <lon>-117.5268554</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>32788/-117414</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.7880042</lat>
+      <lon>-117.4141817</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>32737/-117204</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>32.737163</lat>
+      <lon>-117.204374</lon>
+      <elevation>5.18</elevation>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>33429/-117194</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33441/-117318</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33421/-117440</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33371/-117549</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33295/-117634</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33200/-117686</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>33097/-117702</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>32995/-117678</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>32903/-117618</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>32832/-117527</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>32788/-117414</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>32737/-117204</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

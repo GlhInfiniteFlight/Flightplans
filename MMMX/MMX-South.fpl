@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>MX726</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>18.9683528</lat>
+      <lon>-99.2394600</lon>
+      <elevation>5182</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>URNOK</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.1777856</lat>
+      <lon>-99.0116881</lon>
+      <elevation>4267</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX741</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.2422331</lat>
+      <lon>-99.0758461</lon>
+      <elevation>3810</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>VOLUN</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.2811192</lat>
+      <lon>-99.1733419</lon>
+      <elevation>3353</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX901</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.3569672</lat>
+      <lon>-99.2102789</lon>
+      <elevation>2957</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX900</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.3894444</lat>
+      <lon>-99.1530556</lon>
+      <elevation>2713</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MMMX</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.4363480</lat>
+      <lon>-99.0720978</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>MX726</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>URNOK</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX741</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VOLUN</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX901</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX900</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MMMX</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

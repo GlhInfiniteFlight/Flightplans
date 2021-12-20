@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">20 leg hold pattern
+  <waypoint-table>
+    <waypoint>
+      <identifier>fix00</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.5271164</lat>
+      <lon>104.1244013</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix01</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.5271164</lat>
+      <lon>103.8636047</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix02</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.6076846</lat>
+      <lon>103.6155725</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix03</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.7609343</lat>
+      <lon>103.4045837</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix04</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.9718646</lat>
+      <lon>103.2512914</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix05</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.2198279</lat>
+      <lon>103.1707008</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix06</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.4805521</lat>
+      <lon>103.1707008</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix07</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.7285154</lat>
+      <lon>103.2512914</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix08</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.9394457</lat>
+      <lon>103.4045837</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix09</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.0926954</lat>
+      <lon>103.6155725</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix10</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.1732636</lat>
+      <lon>103.8636047</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix11</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.1732636</lat>
+      <lon>104.1244013</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix12</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>2.0926954</lat>
+      <lon>104.3724335</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix13</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.9394457</lat>
+      <lon>104.5834223</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix14</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.7285154</lat>
+      <lon>104.7367146</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix15</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.4805521</lat>
+      <lon>104.8173052</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix16</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>1.2198279</lat>
+      <lon>104.8173052</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix17</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.9718646</lat>
+      <lon>104.7367146</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix18</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.7609343</lat>
+      <lon>104.5834223</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>fix19</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>0.6076846</lat>
+      <lon>104.3724335</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>fix00</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix01</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix02</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix03</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix04</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix05</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix06</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix07</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix08</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix09</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix10</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix11</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix12</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix13</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix14</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix15</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix16</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix17</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix18</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix19</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>fix00</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

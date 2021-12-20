@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>MX715</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.8994614</lat>
+      <lon>-99.2908508</lon>
+      <elevation>5182</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ALMIS</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.5983478</lat>
+      <lon>-99.2908394</lon>
+      <elevation>4267</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX717</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.5269664</lat>
+      <lon>-99.2352806</lon>
+      <elevation>3810</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>SUTAS</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.4286214</lat>
+      <lon>-99.2558486</lon>
+      <elevation>3353</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX901</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.3569672</lat>
+      <lon>-99.2102789</lon>
+      <elevation>2957</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MX900</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.3894444</lat>
+      <lon>-99.1530556</lon>
+      <elevation>2713</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>MMMX</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>19.4363480</lat>
+      <lon>-99.0720978</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>MX715</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>ALMIS</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX717</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>SUTAS</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX901</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MX900</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MMMX</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

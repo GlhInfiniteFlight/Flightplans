@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>VNRT</identifier>
+      <type>AIRPORT</type>
+      <lat>27.3025875091553</lat>
+      <lon>86.5510902404785</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FIX04</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>27.31351</lat>
+      <lon>86.6845</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FIX03</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>27.50219</lat>
+      <lon>86.69215</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FIX02</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>27.59691</lat>
+      <lon>86.67945</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FIX01</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>27.62999</lat>
+      <lon>86.69726</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VNLK</identifier>
+      <type>AIRPORT</type>
+      <lat>27.6867847442627</lat>
+      <lon>86.7294311523438</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>Rumjatar to Tenzing-Hillary/Lukla</route-name>
+    <route-point>
+      <waypoint-identifier>VNRT</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FIX04</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FIX03</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FIX02</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FIX01</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VNLK</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>
